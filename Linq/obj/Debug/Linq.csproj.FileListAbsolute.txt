@@ -1,0 +1,10 @@
+C:\Users\HP CENTER\source\repos\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\HP CENTER\source\repos\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\HP CENTER\source\repos\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\HP CENTER\source\repos\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Users\HP CENTER\source\repos\Linq\Linq\obj\Debug\Linq.Form1.resources
+C:\Users\HP CENTER\source\repos\Linq\Linq\obj\Debug\Linq.Properties.Resources.resources
+C:\Users\HP CENTER\source\repos\Linq\Linq\obj\Debug\Linq.csproj.GenerateResource.cache
+C:\Users\HP CENTER\source\repos\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\HP CENTER\source\repos\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\HP CENTER\source\repos\Linq\Linq\obj\Debug\Linq.pdb
